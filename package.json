@@ -1,0 +1,28 @@
+{
+  "name": "gulp-string-thing",
+  "version": "1.0.2",
+  "description": "File string content manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveThorpeTM/gulp-string-thing.git"
+  },
+  "keywords": [
+    "gulp",
+    "string",
+    "manipulation",
+    "file",
+    "content",
+    "inject",
+    "replace"
+  ],
+  "author": "Steve Thorpe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SteveThorpeTM/gulp-string-thing/issues"
+  },
+  "homepage": "https://github.com/SteveThorpeTM/gulp-string-thing#readme"
+}
