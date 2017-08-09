@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "description": "File string content manipulation",
   "main": "index.js",
-  "devDependencies": {
+  "dependencies": {
     "event-stream": "^3.3.4",
     "gulp-util": "^3.0.8"
   },
