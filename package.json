@@ -3,6 +3,9 @@
   "version": "1.0.3",
   "description": "File string content manipulation",
   "main": "index.js",
+  "devDependencies": {
+    "event-stream": "^3.3.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
