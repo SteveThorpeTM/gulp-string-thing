@@ -1,6 +1,6 @@
 {
   "name": "gulp-string-thing",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "File string content manipulation",
   "main": "index.js",
   "dependencies": {
@@ -30,4 +30,3 @@
   },
   "homepage": "https://github.com/SteveThorpeTM/gulp-string-thing#readme"
 }
-
