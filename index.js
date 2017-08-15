@@ -24,7 +24,7 @@ module.exports = {
     replace: function(search, replace) {
 		if (typeof search == "string"){
 	        return stream(function(fileText) {
-	          return fileText.replace(new RegExp(search, 'g'), str);
+	          return fileText.replace(new RegExp(search, 'g'), replace);
 	        });
 		}else if (typeof search == "object"){
 	        return stream(function(fileText) {
